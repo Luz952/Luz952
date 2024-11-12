@@ -50,7 +50,7 @@ Sou um **Desenvolvedor de Software** com especialização em **Front-End** e hab
 ### 📫 Conecte-se comigo:
 <p align="left">
   <a href="https://www.linkedin.com/in/davi-luz-8b3717297" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seuEmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:davi.luz07@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
